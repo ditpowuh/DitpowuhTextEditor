@@ -1,5 +1,5 @@
 var default_title = "Welcome!";
-var default_text = "Hi there! Welcome to Ditpowuh's Online Text Editor made with HTML/CSS/JS.";
+var default_text = "Hi there! Welcome to Ditpowuh's Online Text Editor made with HTML/CSS/JS. Your saved text will automatically be loaded.";
 
 if (localStorage.length === 0) {
   localStorage.title = default_title;
