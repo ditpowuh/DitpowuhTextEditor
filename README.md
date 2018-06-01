@@ -1,2 +1,3 @@
-# Ditpowuh-s-Text-Edtior
-A HTML Text Editor made by me. 
+# Ditpowuh's Text Editor
+
+#### A HTML Text Editor made by me. 
