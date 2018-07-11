@@ -1,5 +1,11 @@
+/*
+Copyright © Ditpowuh 2018 Copyright Holder All Rights Reserved | All comments are from me
+*/
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
 html {
-  font-family: "Helevetica", monospace, sans-serif;
+  font-family: "Montserrat", "Helvetica" monospace, sans-serif;
 }
 
 body {
