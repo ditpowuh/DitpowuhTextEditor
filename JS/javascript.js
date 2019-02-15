@@ -24,5 +24,5 @@ function reset() {
 }
 
 function unbeforeunload() {
-  return;
+  return "ERROR";
 }
