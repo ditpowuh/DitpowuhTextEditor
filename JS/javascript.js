@@ -22,3 +22,7 @@ function reset() {
   document.getElementById("content").innerHTML = default_text;
   save();
 }
+
+function unbeforeunload {
+  return;
+}
