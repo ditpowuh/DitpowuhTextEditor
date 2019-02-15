@@ -23,6 +23,6 @@ function reset() {
   save();
 }
 
-function unbeforeunload {
+function unbeforeunload() {
   return;
 }
